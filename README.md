@@ -14,7 +14,7 @@
 
 
 
-<img src="images/wims.png" width="400">
+<img src="wims.png" width="400">
 
 
 <h1>L-lames</h1>
